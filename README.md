@@ -1,5 +1,7 @@
 # 📘 PyTorch로 시작하는 딥러닝 기초
-<img src = "https://user-images.githubusercontent.com/46880056/190392541-cc0a8c35-6f5c-4d39-98fb-c2c299c63a60.png" width="30%" height="50%"><br/><br/>
+<img src = "https://user-images.githubusercontent.com/46880056/190404239-057326cf-74dd-4888-a56a-205a94c4b358.png" width="100%" height="100%">
+
+<img src = "https://user-images.githubusercontent.com/46880056/190392541-cc0a8c35-6f5c-4d39-98fb-c2c299c63a60.png" width="20%" height="50%"><br/><br/>
   
 ## 📌 수업 목표
 - 머신러닝/딥러닝의 이론 및 합성곱 신경망, 순환 신경망에 대해 이해해봅니다.
