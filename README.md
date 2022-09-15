@@ -26,6 +26,21 @@
 - Lab 09-3 __Dropout__
 - Lab 09-4 __Batch Normalization__
 
+### Part 3. CNN
+- Lab 10-0 __Convolution Neural Network-intro__
+- Lab 10-1 __Convolution__
+- Lab 10-2 __MNIST CNN__
+- Lab 10-3 __Visdom__
+- Lab 10-4-1 __ImageFolder 1__
+- Lab 10-4-2 __ImageFolder 2__
+- Lab 10-5 __Advance CNN(VGG)__
+- Lab 10-6-1 __Advanced CNN(RESNET-1)
+- Lab 10-6-2 __Advanced CNN(RESNET-2)
+- Lab 10-7 __Next Step of CNN
+
+### Part 4. RNN
+
+
 ## 🎯 계획
 - 매일 공부하는 것을 목표로 하고 있습니다!
 - 소단원이 끝날 때마다 공부한 내용의 Jupyter Notebook을 업로드할 계획입니다.
