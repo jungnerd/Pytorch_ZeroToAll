@@ -34,12 +34,18 @@
 - Lab 10-4-1 __ImageFolder 1__
 - Lab 10-4-2 __ImageFolder 2__
 - Lab 10-5 __Advance CNN(VGG)__
-- Lab 10-6-1 __Advanced CNN(RESNET-1)
-- Lab 10-6-2 __Advanced CNN(RESNET-2)
-- Lab 10-7 __Next Step of CNN
+- Lab 10-6-1 __Advanced CNN(RESNET-1)__
+- Lab 10-6-2 __Advanced CNN(RESNET-2)__
+- Lab 10-7 __Next Step of CNN__
 
 ### Part 4. RNN
-
+- Lab 11-0 __RNN-intro__
+- Lab 11-1 __RNN basics__
+- Lab 11-2 __RNN hihello and charseq__
+- Lab 11-3 __Long sequence__
+- Lab 11-4 __RNN timeseries__
+- Lab 11-5 __RNN seq2seq__
+- Lab 11-6 __PackedSequence__
 
 ## 🎯 계획
 - 매일 공부하는 것을 목표로 하고 있습니다!
